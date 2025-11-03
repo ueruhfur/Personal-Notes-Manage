@@ -1,0 +1,11 @@
+personal-notes-manager/
+├─ README.md
+├─ .gitignore
+├─ main.py
+├─ src/
+│  ├─ manager.py
+│  ├─ storage.py
+│  └─ utils/
+│     └─ helper.py
+└─ data/
+   └─ notes.txt
